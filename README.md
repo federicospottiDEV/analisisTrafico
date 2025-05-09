@@ -1,4 +1,4 @@
-Este challenge es una herramienta simple de análisis de tráfico de red utilizando Python y Scapy. Captura paquetes IP y genera estadísticas como:
+Este challenge es una herramienta simple de análisis de tráfico de red utilizando Python y Scapy. Captura paquetes IP y genera estadísticas:
 
 
 **funcionamiento**\
